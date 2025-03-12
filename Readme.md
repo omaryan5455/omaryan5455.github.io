@@ -5,7 +5,7 @@
 ---
 
 ## 🌟 Live Demo
-👉 **Experience the magic now:** [Click Here](https://aaru8092.github.io)
+👉 **Experience the magic now:** [Click Here](https://omaryan5455.github.io)
 
 ![Demo GIF](./img/output.png)
 
